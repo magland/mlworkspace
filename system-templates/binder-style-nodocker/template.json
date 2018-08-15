@@ -1,0 +1,7 @@
+{
+	"scripts":{
+		"initialize":"/bin/bash initialize.sh",
+		"cleanup": "/bin/bash cleanup.sh",
+		"open": "/bin/bash open.sh"
+	}
+}
